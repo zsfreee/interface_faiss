@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+streamlit-extras
+langchain-community
+langchain-openai
+openai
+gdown
+faiss-cpu
+matplotlib
+numpy
